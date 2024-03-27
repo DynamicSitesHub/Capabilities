@@ -7,4 +7,4 @@ If you have some data that you'd really like to see against a map but you were o
 
 [Data from Web](https://dynamicsiteshub.github.io/capabilities/Make_Spatial/Taking-data-from-websites)
 
-​        <a href="https://dynamicsiteshub.github.io/capabilities/Make_Spatial/Taking-data-from-websites"><button>Data from Web</button></a> 
+​        <a href="https://dynamicsiteshub.github.io/capabilities/Make_Spatial/Taking-data-from-websites"><button type = "button" class = "btn">Data from Web</button></a> 
