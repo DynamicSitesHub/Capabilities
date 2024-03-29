@@ -9,6 +9,7 @@ title: Categories
     <li>
       <h2>{{ author.name }}</h2>
       <h3>{{ author.position }}</h3>
+      <a href="/capabilities{{ author.url }}">{{ author.name }}</a>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
