@@ -6,3 +6,4 @@ theme: jekyll-theme-cayman
 site_url: https://dynamicsiteshub.github.io/capabilities
 collections:
   authors:
+    output: true
