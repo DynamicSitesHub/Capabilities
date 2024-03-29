@@ -3,11 +3,6 @@ description: A portfolio of all the GIS team stuff so we can help (Refine)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-site_url: https://dynamicsiteshub.github.io/test
-Navigation:
-- title: Home
- url: /index.html
-- title: About
-url: /Make_Spatial
- - title: Contact
-url: /In_GIS
+site_url: https://dynamicsiteshub.github.io/capabilities
+collections:
+  authors:
