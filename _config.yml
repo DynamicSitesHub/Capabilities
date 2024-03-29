@@ -4,3 +4,10 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 site_url: https://dynamicsiteshub.github.io/test
+Navigation:
+- title: Home
+ url: /index.html
+- title: About
+url: /Make_Spatial
+ - title: Contact
+url: /In_GIS
