@@ -2,5 +2,9 @@ TO DO
 
 write index for main page
 
-splash pages for two categories (maybe more??)
+add new author pages for each category we want
+
+write out posts
+
+
 
