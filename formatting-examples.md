@@ -108,7 +108,7 @@ end
 
 ### Local image
 
-<img src="{{ site.baseurl }}/Images/Red_Apple.jpg" alt="a red apple" style="width:75%;" />
+<center><img src="{{ site.baseurl }}/Images/Red_Apple.jpg" alt="a red apple" style="width:75%;"/>
 
 ### Definition lists can be used with HTML syntax.
 
