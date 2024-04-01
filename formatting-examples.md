@@ -4,7 +4,13 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+Local referencing
+
 [Link to another page](./another-page.html).
+
+Full URL referencing
+
+[Link to another page](https://dynamicsiteshub.github.io/capabilities/blog)
 
 There should be whitespace between paragraphs.
 
